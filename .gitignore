@@ -1,0 +1,6 @@
+# editor config and cache
+/.idea
+/.vscode
+
+# engine binaries
+/engine/stockfish/*
